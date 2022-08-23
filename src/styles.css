@@ -81,8 +81,8 @@ header nav a {
   color: #b0b0b0;
 }
 
-header nav a.italic {
-  font-style: italic;
+header nav a.italic { 
+  font-style: italic; 
 }
 
 header nav a:hover {
